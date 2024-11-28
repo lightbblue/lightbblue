@@ -1,6 +1,5 @@
 <p align="center"  width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Joaquin+Stachioni;Web+Developer">
-  <img height="50" width="40" src="https://github.com/user-attachments/assets/fac9b962-a090-4777-92bd-e36807ef52cd">
 </p>
 
 <p align="center">
@@ -15,11 +14,11 @@
 
 ```js
 let aboutMe = {
-  name: { nick: "lighbblue🐱‍👤", real: "Joaquin Mateo Nicolas Stachioni lechuga" },
+  name: { nick: "lighbblue🐱‍👤", real: "Joaquin Mateo Nicolas Stachioni Ochova" },
   origin: { country: "Argentina", year: 2005 },
-  stat: { virgin: true, otaku: true },
+  stat: { virgin: true, capo: true, girlfriend: false},
   details: [
-    "Currently learning web front-end development"
+    "Currently learning web front-end development, I love React btw"
   ]
 };
 ```
