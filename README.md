@@ -9,7 +9,6 @@
 </p>
 <p align="center" width="100%">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightbblue&hide_progress=true&theme=transparent">
-  <img height=150 src="https://github.com/user-attachments/assets/059c2b16-84f1-41fa-92e8-893726cf7063">
 </p>
 
 ```js
